@@ -1,5 +1,5 @@
-**Processor_Cache_Design**
-The two caches implemented is instruction cache and data cache. Each cache has 2KB in size, 2 way set-associative, with cache blocks 16B each.
+# **Processor_Cache_Design**
+The two caches implemented are instruction cache and data cache. Each cache has 2KB in size, 2 way set-associative, with cache blocks 16B each.
 
 # Cache Write Policy & Cache Read Policy
 Cache write policy is write-through and write-allocate. Cache read policy is reading from the cache for a hit; on a miss, the data is brought back from main memory to the cache and then the required word (from the cache block) is read out.
