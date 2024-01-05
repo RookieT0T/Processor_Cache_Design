@@ -1,4 +1,4 @@
-#﻿ **Processor_Cache_Design**
+**Processor_Cache_Design**
 The two caches implemented is instruction cache and data cache. Each cache has 2KB in size, 2 way set-associative, with cache blocks 16B each.
 
 # Cache Write Policy & Cache Read Policy
